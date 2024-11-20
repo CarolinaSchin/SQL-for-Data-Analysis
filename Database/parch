@@ -1,0 +1,8 @@
+The Parch & Posey database was used for most of the queries.
+
+You can create and populate the database using PostgreSQL with this code:
+
+$ createdb parch
+$ psql parch < parch_and_posey.sql
+
+
